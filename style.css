@@ -187,10 +187,10 @@ header {
 	background: #000;
 }
 header .logo {
-	width: 10%;
+	width: 60px;
 	margin-top: 0;
 	position: absolute;
-	top: -10px;
+	top: -15px;
 }
 
 header .logoImage {
