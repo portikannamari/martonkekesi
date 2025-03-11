@@ -187,6 +187,13 @@ header {
 	background: #000;
 }
 header .logo {
+	width: 10%;
+	margin-top: 0;
+	position: absolute;
+	top: -10px;
+}
+
+header .logoImage {
 	font-weight: 700;
 	text-transform: uppercase;
 	color: #FFFFFF;
